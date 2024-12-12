@@ -10,14 +10,10 @@ Esta herramienta está desarrollada con **Streamlit** y permite cargar un archiv
 - **Filtrado y búsqueda**: Puedes buscar empleados por nombre, departamento, cargo, etc.
 - **Análisis interactivo**: Gráficas y estadísticas sobre los empleados, como la distribución por departamentos, antigüedad, etc.
 
-Puedes probar la aplicación y ver cómo funciona en el siguiente enlace:
-
-[**Aplicación de Gestión de Empleados**](https://empleatronixapf.streamlit.app/)
-
 ### Enlaces requeridos para completar la actividad:
 
 1. **Repositorio de GitHub** con el código fuente:  
    [Repositorio GitHub](https://github.com/imchopi/empleatronix)
 
 2. **Aplicación desplegada y visible en Internet de forma pública**:  
-   [Aplicación en Streamlit](https://empleatronix.streamlit.app/)
+   [Aplicación en Streamlit](https://empleatronixapf.streamlit.app/)
